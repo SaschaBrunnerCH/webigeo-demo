@@ -1,0 +1,21 @@
+{
+    "aabb_file_path": "..\\webigeo_eval_example\\input/vals/heights/aabb.txt",
+    "density": 200,
+    "drag_coeff": 4000,
+    "friction_coeff": 0.1550000011920929,
+    "friction_model": 0,
+    "heightmap_texture_path": "..\\webigeo_eval_example\\input/vals/heights/texture.png",
+    "max_random_deviation": 25,
+    "max_runout_angle": 25,
+    "model_type": 0,
+    "num_particles_per_release_cell": 256,
+    "num_simulation_runs": 1,
+    "num_simulation_steps": 10000,
+    "output_dir_path": "..\\webigeo_eval_example\\output/vals",
+    "persistence": 0.8999999761581421,
+    "random_seed": 1,
+    "release_cells_texture_path": "..\\webigeo_eval_example\\input/vals/release_points/texture.png",
+    "resolution_multiplier": 1,
+    "simulation_step_length": 0.10000000149011612,
+    "slab_thickness": 0.5
+}

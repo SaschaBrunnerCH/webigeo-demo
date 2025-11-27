@@ -1,0 +1,15 @@
+{
+    "aabb_file_path": "input/vals/heights/aabb.txt",
+    "heightmap_texture_path": "input/vals/heights/texture.png",
+    "release_cells_texture_path": "input/vals/release_points/texture.png",
+    "output_dir_path": "output/vals",
+	
+    "resolution_multiplier": 1,
+    "num_particles_per_release_cell": 256,
+    "num_simulation_steps": 10000,
+    "random_seed": 1,
+
+    "max_random_deviation": 25,
+	"persistence": 0.9,
+    "max_runout_angle": 25
+}
